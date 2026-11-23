@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.3",
   "obrigatoria": false,
   "novidades": "• Suporte a seleção manual de .config via USB\n• Verificação e limpeza segura de Root",
   "apkUrl": "https://github.com/hevertonnightwolf-sketch/TK-Ativador/releases/download/1.0/TK.Ativador.apk"

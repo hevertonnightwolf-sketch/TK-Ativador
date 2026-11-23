@@ -1,5 +1,5 @@
 {
-  "versionCode": 4,
+  "versionCode": 5,
   "versionName": "1.0",
   "obrigatoria": false,
   "novidades": "• Suporte a seleção manual de .config via USB\n• Verificação e limpeza segura de Root",
